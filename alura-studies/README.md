@@ -64,7 +64,7 @@ O projeto tem como foco o aprendizado das tecnologias **React** e **Typescript**
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/alura-studies.git
+git clone https://github.com/Ediovan-Ribeiro/alura-studies.git
 
 # Acesse a pasta do projeto
 cd alura-studies
