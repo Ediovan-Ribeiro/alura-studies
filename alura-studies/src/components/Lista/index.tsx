@@ -1,4 +1,3 @@
-import React from 'react';
 import style from './Lista.module.scss';
 import Item from './Item';
 function Lista() {

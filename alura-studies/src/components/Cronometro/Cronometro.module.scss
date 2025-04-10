@@ -1,6 +1,7 @@
 .cronometro {
   display: flex;
   flex-direction: column;
+  color: #D0D0D0;
   align-items: center;
   grid-area: cronometro;
 
@@ -12,14 +13,16 @@
     box-sizing: border-box;
     display: flex;
     font-size: 3rem;
+    text-align: center;
     justify-content: center;
-    margin-bottom: 34px;
-    padding: 16px 14px;
+    margin-bottom: 24px;
+    padding: 16px 16px;
     width: 100%;
   }
 
   .titulo {
     font-size: 2rem;
+    
   }
 
   button {
@@ -39,10 +42,11 @@
     }
   }
 
-  @media screen and (min-width: 1366px) {
+  @media screen and (min-width:1280px) {
     
     .relogioWrapper{
-      font-size: 8.5rem;
+      font-size: 9.5rem;
+  
     }
 
     p {
